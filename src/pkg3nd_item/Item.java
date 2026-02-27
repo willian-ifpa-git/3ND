@@ -7,7 +7,7 @@ public class Item {
     private int quantidade;
     private String descricao;
     private String id;
-    private float desconto;
+    private float desconto ;
     
     public Item(String id, String descricao, int quantidade, float precoUnitario){
         this.id = id;
